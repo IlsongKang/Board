@@ -1,5 +1,5 @@
 # ASP.NET Core MVC 게시판 프로젝트
-ASP.NET Core MVC 
+ 
 ASP.NET Core MVC를 사용하여 만든 간단한 CRUD 게시판입니다.
 
 ## 기술 스택
