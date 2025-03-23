@@ -1,0 +1,44 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Local development settings
+appsettings.Development.json
+
+# Entity Framework Core
+Migrations/*.cs
+Migrations/*.Designer.cs
+!Migrations/*Initial*.cs
+!Migrations/*Initial*.Designer.cs 
